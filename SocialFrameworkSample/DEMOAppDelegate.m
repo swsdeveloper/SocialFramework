@@ -2,8 +2,8 @@
 //  DEMOAppDelegate.m
 //  SocialFrameworkSample
 //
-//  Created by Aditya on 12/11/13.
-//  Copyright (c) 2013 Aditya. All rights reserved.
+//  Created by Steven Shatz on 2/13/15.
+//  Copyright (c) 2015 Steven Shatz. All rights reserved.
 //
 
 #import "DEMOAppDelegate.h"
